@@ -1,11 +1,11 @@
 #include <iostream>
 using namespace std;
 
-main() {
-   num1, num2, sum;
+ int main() {
+   int num1, num2, sum;
 
     // Asking the user for input
-    cout >> "Enter the first number: ";
+    cout << "Enter the first number: ";
     cin >> num1;
 
     cout << "Enter the second number: ";
