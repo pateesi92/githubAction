@@ -1,8 +1,8 @@
 #include <iostream>
 using namespace std;
 
- int main() {
-   int num1, num2, sum;
+int main() {
+    int num1, num2, sum;
 
     // Asking the user for input
     cout << "Enter the first number: ";
@@ -19,3 +19,4 @@ using namespace std;
 
     return 0;
 }
+
